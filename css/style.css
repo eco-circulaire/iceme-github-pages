@@ -35,21 +35,23 @@ body{
 
 
 #wrapper{
-	background-image: url(../images/background.jpeg);
-	height: 600px;
+	background-image: url(../images/OptionA.jpg);
+	height: 700px;
 	background-size: cover;	
 	text-align: center;
 	padding-top: 150px;
-	text-shadow : 2px 2px 5px #F7FFF7;
+	text-shadow : 2px 2px 5px black;
 }
 
 #wrapper h1{
 	font-size: 68px;
+	color:white;
 }
 
 #wrapper h2{
 	font-size: 20px;
 	margin-bottom: 1em;
+	color:white;
 }
 
 .social{
